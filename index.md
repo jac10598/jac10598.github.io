@@ -1,6 +1,6 @@
-## Welcome to jac10598's page! :sunglasses:
+## Welcome to jac10598's page!
 
-:grinning:
+
 
 You can use the [editor on GitHub](https://github.com/jac10598/jac10598.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
